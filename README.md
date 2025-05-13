@@ -1,3 +1,5 @@
+## Public Repo Stats
+[![SocksM's GitHub stats](https://github-readme-stats.vercel.app/api?username=socksm&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=false&hide_title=true&hide_border=true&)](https://github.com/SocksM)
 ## Technologies I've worked with
 - C#
   - Entity Framework
